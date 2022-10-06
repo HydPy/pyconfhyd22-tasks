@@ -1,4 +1,4 @@
-# Tasks for PyConf Hyderabad 2019
+# Tasks for PyConf Hyderabad 2022
 
 The primary purpose of this repository is to create a central place to keep track of all PyConf Hyderabad related tasks, information, assets, email templates and etc.
 
